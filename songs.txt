@@ -47412,6 +47412,7 @@
         "composer": "",
         "album": "Calle 13",
         "albumArtist": "Calle 13",
+		"genre": "Latin Hip Hop",
         "year": 2001,
         "trackNumber": 10,
         "durationMillis": "239000",
@@ -56842,6 +56843,7 @@
         "albumArtist": "Josh Turner",
         "year": 2009,
         "trackNumber": 1,
+		"genre": "Country",
         "durationMillis": "192000",
         "albumArtRef": [
             {
@@ -56897,6 +56899,7 @@
         "albumArtist": "Josh Turner",
         "year": 2006,
         "trackNumber": 4,
+		"genre": "Country",
         "durationMillis": "211000",
         "albumArtRef": [
             {
@@ -87591,6 +87594,7 @@
         "composer": "",
         "album": "M.I.A.M.I.",
         "albumArtist": "Pitbull",
+		"genre": "Latin Hip-Hop",
         "year": 2004,
         "trackNumber": 2,
         "durationMillis": "219000",
