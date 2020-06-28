@@ -1,0 +1,302 @@
+[{
+        "kind": "sj#track",
+        "id": "013c8242-dd29-3005-bfe1-0c495e369c05",
+        "clientId": "YDUadlVZcChrjmpRVg9qSA",
+        "creationTimestamp": "1520568439964345",
+        "lastModifiedTimestamp": "1583714043894580",
+        "recentTimestamp": "1520568439962000",
+        "deleted": false,
+        "title": "Sensualidad ft. Prince Royce, J Balvin, Mambo Kingz & DJ Luian)",
+        "artist": "Bad Bunny",
+        "composer": "",
+        "album": "Sensualidad (feat. Mambo Kingz & DJ Luian) - Single",
+        "albumArtist": "",
+        "year": 2017,
+        "comment": "",
+        "trackNumber": 1,
+        "genre": "Latin Urban",
+        "durationMillis": "297586",
+        "beatsPerMinute": 0,
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/R36gmngsZoXTuZW_fkZvxVwUMfebKKTAkI5LlCbsyNoVdW0tFtDjmmpkWpE"
+            }
+        ],
+        "playCount": 31,
+        "totalTrackCount": 0,
+        "discNumber": 0,
+        "totalDiscCount": 0,
+        "rating": "0",
+        "estimatedSize": "11953426"
+    },
+    {
+        "kind": "sj#track",
+        "id": "3ced5672-1614-3717-a791-ee6046935c51",
+        "clientId": "36VCWw1kdEnfmg1T3hRK7Q",
+        "creationTimestamp": "1511360869673086",
+        "lastModifiedTimestamp": "1583714240278363",
+        "recentTimestamp": "1511360869671000",
+        "deleted": false,
+        "title": "Hasta el Amanecer",
+        "artist": "Nicky Jam",
+        "composer": "",
+        "album": "Hasta el Amanecer - Single",
+        "albumArtist": "",
+        "year": 2016,
+        "comment": "",
+        "trackNumber": 1,
+        "genre": "Pop Latino",
+        "durationMillis": "197328",
+        "beatsPerMinute": 0,
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/RwDyagR1t360xEQfu7FRGVZYLyh6X-S1qR_lKaZHhlKl7t67Y61zlSgmouCKLw"
+            }
+        ],
+        "artistArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/iv8QtpldxGHLJClFDYjf3cYdf8eaML7XHtfDB_TxZKX-lqAVvjphtTk2HCEWVVZAH_Xx6p0Rbg",
+                "aspectRatio": "2",
+                "autogen": true
+            }
+        ],
+        "playCount": 29,
+        "totalTrackCount": 0,
+        "discNumber": 0,
+        "totalDiscCount": 0,
+        "rating": "0",
+        "estimatedSize": "7988147",
+        "artistId": [
+            "Aabd3umcbndkuywxvcekmnondcu"
+        ],
+        "nid": "Tjhz7zc3js5l7ux567kcshy7c2e"
+    },
+    {
+        "kind": "sj#track",
+        "id": "aaf543b3-2509-312c-840c-7ff8a1f17eca",
+        "clientId": "w2u/GB+80bEbVJh/9fOSvQ",
+        "creationTimestamp": "1520568353202896",
+        "lastModifiedTimestamp": "1583714434033394",
+        "recentTimestamp": "1520568353200000",
+        "deleted": false,
+        "title": "Inevitable",
+        "artist": "Shakira",
+        "composer": "",
+        "album": "Donde Estan Los Ladrones",
+        "albumArtist": "",
+        "year": 2002,
+        "comment": "",
+        "trackNumber": 5,
+        "genre": "Latin",
+        "durationMillis": "193802",
+        "beatsPerMinute": 0,
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/LR08wIAroFoYZa7GgBba4PqIp5gHFAhV5wQRCjpfiq0x7u7v6OG8-MfYU0gX"
+            }
+        ],
+        "artistArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/0dF68P7emRnpLLhyQLF3grgdIFQTzJI2-Z7-zt1lmSk8jXzvJgYh1b9RF9IwvTv6eRpAEbxqVA",
+                "aspectRatio": "2",
+                "autogen": false
+            }
+        ],
+        "playCount": 32,
+        "totalTrackCount": 0,
+        "discNumber": 0,
+        "totalDiscCount": 0,
+        "rating": "0",
+        "estimatedSize": "7806293",
+        "storeId": "Txaw22twu6cfksw35bwyd2vb6oe",
+        "albumId": "Bafpqnqlsio2ru46wqahw5r5sqm",
+        "artistId": [
+            "Aam4ku5bsj7n6jvkfgdvvfmk56y"
+        ],
+        "nid": "Txaw22twu6cfksw35bwyd2vb6oe",
+        "primaryVideo": {
+            "kind": "sj#video",
+            "id": "nYbcVK2jjXc",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/nYbcVK2jjXc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                }
+            ]
+        }
+    },
+    {
+        "kind": "sj#track",
+        "id": "1c1e18d0-ec1c-36f6-bceb-c3f0d2a46454",
+        "clientId": "6c0021c3-4db3-404f-85c3-6daf96234530",
+        "creationTimestamp": "1532431655713100",
+        "lastModifiedTimestamp": "1583715148557210",
+        "recentTimestamp": "1532431655711000",
+        "deleted": false,
+        "title": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
+        "artist": "Natalia Lafourcade",
+        "composer": "Natalia Lafourcade",
+        "album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "albumArtist": "Natalia Lafourcade",
+        "year": 2017,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "244000",
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/U3zri3PzT59xu5lLC4CbZPYCbh60gpet26A9VEzf7TJDtM9n4M9Pnehfxp1ggtH5XPiB56USYAQ",
+                "aspectRatio": "1",
+                "autogen": false
+            }
+        ],
+        "artistArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/dZiY4XRKEQe3v9Hhn84Q_ph6EQoO0oGjbwKXX1qCJMIEF4fTUrURSWEoe8i0ofq23HStUqAu-Q",
+                "aspectRatio": "2",
+                "autogen": false
+            }
+        ],
+        "playCount": 38,
+        "discNumber": 1,
+        "estimatedSize": "9800135",
+        "trackType": "8",
+        "storeId": "T4atugdyyq5pgzfvgl255hvy2ya",
+        "albumId": "Beh5zfyi7hjhc6sa6razth64ep4",
+        "artistId": [
+            "Axfgwsnd76l2rnsfbl7k3ac5aya",
+            "Avicn5r55htl3q2l6wiooufbo2e"
+        ],
+        "nid": "T4atugdyyq5pgzfvgl255hvy2ya",
+        "explicitType": "2"
+    },
+    {
+        "kind": "sj#track",
+        "id": "6f3d2ea0-c796-38ca-8ce9-e0a3443f7e67",
+        "creationTimestamp": "1548161731544935",
+        "lastModifiedTimestamp": "1583715540820414",
+        "recentTimestamp": "1548161731543000",
+        "deleted": false,
+        "title": "Agora Vai Sentar",
+        "artist": "MCs Jhowzinho e Kadinho",
+        "composer": "",
+        "album": "Ver\u00e3o Funk",
+        "albumArtist": "Various Artists",
+        "year": 2018,
+        "trackNumber": 15,
+        "genre": "South America",
+        "durationMillis": "225000",
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/N7xNUnzl7JsKxwHXZXTbQwPb9MDNZKv4H4eO8tUmkRaCKI7CMuMJ_4gW0Ib2huyFFP1knqX47XQ",
+                "aspectRatio": "1",
+                "autogen": false
+            }
+        ],
+        "artistArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/1JvyGHEG5UbSx913pnLRGXSu7jMQMv6SIRvKfwzqyPH02YBibF3RgdvttRO9OTNvLXDhLLzp",
+                "aspectRatio": "2",
+                "autogen": true
+            }
+        ],
+        "playCount": 33,
+        "discNumber": 1,
+        "estimatedSize": "9006012",
+        "trackType": "8",
+        "storeId": "Tueybdptefa5kxushyicpqqt2ou",
+        "albumId": "Bdlrz7hytno757nduchlkj2fqva",
+        "artistId": [
+            "Auk2bmoaqyqx24b62ysjqzdmw3a"
+        ],
+        "nid": "Tueybdptefa5kxushyicpqqt2ou",
+        "explicitType": "1"
+    },
+    {
+        "kind": "sj#track",
+        "id": "7bca0646-f1b4-3eb3-a7a5-097ae687df2d",
+        "clientId": "lReFWhKVPv5TYcILQgnWZA",
+        "creationTimestamp": "1520219729398198",
+        "lastModifiedTimestamp": "1583716092218020",
+        "recentTimestamp": "1528412290928000",
+        "deleted": false,
+        "title": "El Ratico ft. Kali Uchis",
+        "artist": "Juanes",
+        "composer": "",
+        "album": "Billboard - Top 50 Latin Songs aug2017",
+        "albumArtist": "",
+        "year": 2017,
+        "comment": "",
+        "trackNumber": 48,
+        "genre": "Pop Latino",
+        "durationMillis": "163996",
+        "beatsPerMinute": 0,
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/l_on0zDLfOARpBd-kn8DfyrxEOMgWID-4n_pZ-m6j2gggKJXA6D2ODCpVcPJzQ"
+            }
+        ],
+        "playCount": 16,
+        "totalTrackCount": 0,
+        "discNumber": 0,
+        "totalDiscCount": 0,
+        "rating": "0",
+        "estimatedSize": "5370348"
+    },
+    {
+        "kind": "sj#track",
+        "id": "66a89420-92dc-3c12-afa8-7b393d4aa2b6",
+        "creationTimestamp": "1531673811382475",
+        "lastModifiedTimestamp": "1583716451923296",
+        "recentTimestamp": "1531673811380000",
+        "deleted": false,
+        "title": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+        "artist": "Sofia Reyes",
+        "composer": "Sofia Reyes; De La Ghetto; Jason Derulo",
+        "album": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+        "albumArtist": "Sofia Reyes",
+        "year": 2018,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "201000",
+        "albumArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/Y_Vll70cCcbhTjKbHb7OSIH14KOkJKWCtivc8IeCoXJH0zP5tCHT6elz7mNT7asJ9_4QVydLlg",
+                "aspectRatio": "1",
+                "autogen": false
+            }
+        ],
+        "artistArtRef": [
+            {
+                "kind": "sj#imageRef",
+                "url": "http://lh3.googleusercontent.com/XgsyOUFALwO-msJEbYn2_QRBig5Y4d0545XSxXVbaKkzhQ9M8kmf6gRmzTgopQnOz3nb1AS-",
+                "aspectRatio": "2",
+                "autogen": false
+            }
+        ],
+        "playCount": 33,
+        "discNumber": 1,
+        "estimatedSize": "8063514",
+        "trackType": "8",
+        "storeId": "Tdxfirqia27lon6nfuzytuy43i4",
+        "albumId": "B346okxu2625bqirozi7k6lb3ze",
+        "artistId": [
+            "Atvwwa4qrnga3oeutzis5t7ln7y",
+            "A3h2jp3ehpbylaamqyhuppujxpq",
+            "Aqzpw2jj3v32pq4euwuzo4obloi"
+        ],
+        "nid": "Tdxfirqia27lon6nfuzytuy43i4",
+        "explicitType": "2"
+    }
+]
