@@ -3,8 +3,7 @@ import pprint
 import cmd
 import pyreadline
 
-# TODO this will be unsorted_songs.txt when ready 
-f = open("./subset.txt", "r")
+f = open("./unsorted_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
 
@@ -18,7 +17,6 @@ f.close()
 
 
 class Command(cmd.Cmd):
-    intro = "Hi" 
     prompt = '> '
    
     def complete_sendto(self, text, line, start_index, end_index):
@@ -61,7 +59,7 @@ class Command(cmd.Cmd):
 
     def do_playlists(self, line):
         for p in playlists:
-            print(p)
+            print('{}, {} songs'.format(p, len(playlists[p])))
 
     def do_next(self, line):
         try:
