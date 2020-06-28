@@ -34,23 +34,13 @@ def refreshStats():
     f.write(json.dumps(stats, indent=4))
     f.close()
 
-
-# loop through library, deleting each item as it gets sorted
-#   choose to sort by artist
-#       can get more info on songs they own if i don't recognize the artist?
-# will it prompt me by artist, or i search by artist?
-#   prompt
-# autocomplete features just automplete playlist names
-# I should also have the option to create a new playlist 
-# if i don't finish all in one go, should save intermediate library
 f = open('song_stats.txt', 'r')
 artists = json.loads(f.read())['artists'].keys()
 items = iter(artists)
 f.close()
 
-f = open('playlists.txt', 'r')
-playlists = json.loads(f.read()).keys()
-playlists = list(playlists)
+f = open('sorted_songs.txt', 'r')
+playlists = json.loads(f.read())
 f.close()
 
 class Command(cmd.Cmd):
@@ -61,19 +51,26 @@ class Command(cmd.Cmd):
         args = line.split()
         if text:
             return [
-                    playlist for playlist in playlists
+                    playlist for playlist in list(playlists.keys())
                     if playlist.startswith(text)
                 ]
         else:
-            return playlists
+            return list(playlists.keys())
            
     def do_playlist(self, line):
-        print("sending "+self.artist+" to playlist "+line)
-        # send artist to the playlist
-        #artist_songs = [song['title'] for song in library
-        #          if song['artist'] ...
-
-        pass
+        if line in playlists.keys():
+            print("sending "+self.artist+" to playlist "+line)
+        else:
+            print("Playlist does not yet exist.")
+            return 
+        
+        artist_songs = [song for song in library
+                            if song['artist'] == self.artist]
+        #TODO remove songs from library
+        playlists[line].extend(artist_songs)
+    
+    def do_make(self, line):
+        playlists[line] = []
 
     def do_next(self, line):
         try:
@@ -84,10 +81,11 @@ class Command(cmd.Cmd):
             return True
 
     def do_exit(self, line):
+        #TODO save_changes()
         return True
 
     def default(self, line):
-        print('ok')
+        print('Command does not exist.')
 
 
 cmd = Command()
