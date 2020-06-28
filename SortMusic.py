@@ -3,7 +3,7 @@ import pprint
 import cmd
 import pyreadline
 
-f = open("./songs.txt", "r")
+f = open("./all_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
 
@@ -48,11 +48,27 @@ artists = json.loads(f.read())['artists'].keys()
 items = iter(artists)
 f.close()
 
+f = open('playlists.txt', 'r')
+playlists = json.loads(f.read()).keys()
+playlists = list(playlists)
+f.close()
+
 class Command(cmd.Cmd):
     intro = "Hi" 
     prompt = '> '
    
+    def complete_playlist(self, text, line, start_index, end_index):
+        args = line.split()
+        if text:
+            return [
+                    playlist for playlist in playlists
+                    if playlist.startswith(text)
+                ]
+        else:
+            return playlists
+           
     def do_playlist(self, line):
+        print("sending "+self.artist+" to playlist "+line)
         # send artist to the playlist
         #artist_songs = [song['title'] for song in library
         #          if song['artist'] ...
