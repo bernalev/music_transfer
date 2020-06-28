@@ -72,9 +72,13 @@ class Command(cmd.Cmd):
             return True
 
     def do_exit(self, line):
-        #TODO save_changes()
-        #   involves saving playlists as sorted_songs
-        #          saving library as unsorted_songs
+        f = open('sorted_songs.txt', 'w')
+        f.write(json.dumps(playlists, indent=4))
+        f.close()
+
+        f = open('unsorted_songs.txt', 'w')
+        f.write(json.dumps(library, indent=4))
+        f.close()
         return True
 
     def default(self, line):
