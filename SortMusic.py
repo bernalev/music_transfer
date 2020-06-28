@@ -8,33 +8,6 @@ f = open("./all_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
 
-def refreshStats():
-    stats = {}
-    
-    stats['num_songs'] = len(library)
-
-    def getCountByKey(key):
-        data = {}
-
-        for song in library:
-            if key in song:
-                if song[key] in data:
-                    data[song[key]] += 1
-                else:
-                    data[song[key]] = 1
-            else:
-                pprint.pprint(song)
-
-        return dict(sorted(data.items()))
-
-    stats['genres'] = getCountByKey('genre')
-    stats['years'] = getCountByKey('year')
-    stats['artists'] = getCountByKey('artist')
-
-    f = open('song_stats.txt', 'w')
-    f.write(json.dumps(stats, indent=4))
-    f.close()
-
 artists = [song['artist'] for song in library]
 artists = list(set(artists))
 items = iter(artists)
@@ -46,7 +19,6 @@ f.close()
 class Command(cmd.Cmd):
     intro = "Hi" 
     prompt = '> '
-    library = library
    
     def complete_sendto(self, text, line, start_index, end_index):
         args = line.split()
@@ -65,15 +37,27 @@ class Command(cmd.Cmd):
             print("Playlist does not yet exist.")
             return 
         
-        artist_songs = [song for song in self.library
+        to_pop = []
+        artist_songs = []
+        for i, song in enumerate(library):
+            if (song['artist'] == self.artist):
+                artist_songs.append(song)
+                to_pop.append(i)
+        for i in to_pop:
+            library.pop(i)
+
+
+        check = [song for song in library
                             if song['artist'] == self.artist]
-        self.library = [song for song in self.library
-                            if song['artist'] != self.artist]
+        if (check):
+            print("damn")
+        else:
+            print("ye")
         
         playlists[line].extend(artist_songs)
     
     def do_more(self, line):
-        artist_songs = [song for song in self.library
+        artist_songs = [song for song in library
                             if song['artist'] == self.artist]
         if (artist_songs):
             for song in artist_songs:
