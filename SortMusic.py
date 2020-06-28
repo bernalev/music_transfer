@@ -48,7 +48,7 @@ class Command(cmd.Cmd):
     prompt = '> '
     library = library
    
-    def complete_playlist(self, text, line, start_index, end_index):
+    def complete_sendto(self, text, line, start_index, end_index):
         args = line.split()
         if text:
             return [
@@ -58,7 +58,7 @@ class Command(cmd.Cmd):
         else:
             return list(playlists.keys())
            
-    def do_playlist(self, line):
+    def do_sendto(self, line):
         if line in playlists.keys():
             print("sending "+self.artist+" to playlist "+line)
         else:
@@ -82,6 +82,10 @@ class Command(cmd.Cmd):
 
     def do_make(self, line):
         playlists[line] = []
+
+    def do_playlists(self, line):
+        for p in playlists:
+            print(p)
 
     def do_next(self, line):
         try:
