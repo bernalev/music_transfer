@@ -3,6 +3,7 @@ import pprint
 import cmd
 import pyreadline
 
+# TODO this will be unsorted_songs.txt when ready 
 f = open("./all_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
@@ -34,10 +35,9 @@ def refreshStats():
     f.write(json.dumps(stats, indent=4))
     f.close()
 
-f = open('song_stats.txt', 'r')
-artists = json.loads(f.read())['artists'].keys()
+artists = [song['artist'] for song in library]
+artists = list(set(artists))
 items = iter(artists)
-f.close()
 
 f = open('sorted_songs.txt', 'r')
 playlists = json.loads(f.read())
@@ -46,6 +46,7 @@ f.close()
 class Command(cmd.Cmd):
     intro = "Hi" 
     prompt = '> '
+    library = library
    
     def complete_playlist(self, text, line, start_index, end_index):
         args = line.split()
@@ -64,11 +65,21 @@ class Command(cmd.Cmd):
             print("Playlist does not yet exist.")
             return 
         
-        artist_songs = [song for song in library
+        artist_songs = [song for song in self.library
                             if song['artist'] == self.artist]
-        #TODO remove songs from library
+        self.library = [song for song in self.library
+                            if song['artist'] != self.artist]
+        
         playlists[line].extend(artist_songs)
     
+    def do_more(self, line):
+        artist_songs = [song for song in self.library
+                            if song['artist'] == self.artist]
+        if (artist_songs):
+            for song in artist_songs:
+                print('  '+song['title'])
+            print('Genre: '+artist_songs[0]['genre'])
+
     def do_make(self, line):
         playlists[line] = []
 
