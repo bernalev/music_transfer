@@ -2,10 +2,14 @@ import json
 import pprint
 import cmd
 import pyreadline
+import LibraryManager
 
-f = open("./unsorted_songs.txt", "r")
+
+
+f = open("./subset.txt", "r")
 library = json.loads(f.read())
 f.close()
+pm = LibraryManager.LibraryManager(library)
 
 artists = [song['artist'] for song in library]
 artists = list(set(artists))
@@ -47,12 +51,7 @@ class Command(cmd.Cmd):
         playlists[line].extend(artist_songs)
     
     def do_info(self, line):
-        artist_songs = [song for song in library
-                            if song['artist'] == self.artist]
-        if (artist_songs):
-            for song in artist_songs:
-                print('  '+song['title']+', '+str(song['year']))
-            print('Genre: '+artist_songs[0]['genre'])
+        pm.print_artist_info(self.artist)
 
     def do_make(self, line):
         playlists[line] = []
