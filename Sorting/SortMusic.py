@@ -4,10 +4,13 @@ import cmd
 import pyreadline
 import LibraryManager
 
-f = open("./subset.txt", "r")
+f = open("../Google Play Music/all_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
 library = LibraryManager.LibraryManager(library)
+library.remove_song('','')
+library.remove_song('Another Brick In The Wall (Part III)','Pink Floyd')
+library.remove_song('Another Brick In The Wall (Part III)','Pink Floyd')
 
 artists = iter(library.get_artists())
 

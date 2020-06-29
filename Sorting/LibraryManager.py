@@ -2,9 +2,17 @@ class LibraryManager:
     def __init__(self, library):
         self.library = library
 
-    def remove_song(self):
-        #TODO
-        pass
+    def remove_song(self, title, artist):
+        to_pop = -1
+        for i, song in enumerate(self.library):
+            if song['title'] == title and song['artist'] == artist:
+                to_pop = i
+        
+        if to_pop >= 0:
+            print('Deleting {} by {}'.format(title, artist))
+            return self.library.pop(to_pop)
+        else:
+            print('song not found in library')
 
     def remove_artist(self, artist):
         to_pop = []
@@ -15,7 +23,7 @@ class LibraryManager:
                 artist_songs.append(song)
                 to_pop.append(i)
 
-        #TODO is bug
+        to_pop.sort(reverse=True)
         for i in to_pop:
             self.library.pop(i)
 
