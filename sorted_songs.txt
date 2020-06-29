@@ -1,8 +1,0 @@
-{
-    "Reggaeton&Funk": [],
-	"Grade 8": [],
-	"Highschool": [],
-	"Growing up": [],
-	"Older Music": [],
-	"Forget About": []
-}
