@@ -2,7 +2,8 @@ class LibraryManager:
     def __init__(self, library):
         self.library = library
 
-    def remove_song():
+    def remove_song(self):
+        #TODO
         pass
 
     def remove_artist(self, artist):
@@ -10,10 +11,11 @@ class LibraryManager:
         artist_songs = []
 
         for i, song in enumerate(self.library):
-            if (song['artist'] == artist):
+            if song['artist'] == artist:
                 artist_songs.append(song)
                 to_pop.append(i)
 
+        #TODO is bug
         for i in to_pop:
             self.library.pop(i)
 
@@ -29,10 +31,10 @@ class LibraryManager:
     def print_artist(self, artist):
         artist_songs = self.get_artist_songs(artist)
 
-        if (artist_songs):
+        if artist_songs:
             for song in artist_songs:
                 print('  '+song['title']+', '+str(song['year']))
             print('Genre: '+artist_songs[0]['genre'])
 
-    def get_library():
+    def get_library(self):
         return self.library

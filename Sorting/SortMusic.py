@@ -18,7 +18,7 @@ f.close()
 
 class Command(cmd.Cmd):
     prompt = '> '
-   
+
     def complete_sendto(self, text, line, start_index, end_index):
         if text:
             return [
@@ -27,18 +27,18 @@ class Command(cmd.Cmd):
                 ]
         else:
             return list(playlists.keys())
-           
+
     def do_sendto(self, line):
         if line in playlists.keys():
             print("sending "+self.artist+" to playlist "+line)
         else:
             print("playlist does not yet exist.")
-            return 
-        
+            return
+
         artist_songs = library.remove_artist(self.artist)
-        
+
         playlists[line].extend(artist_songs)
-    
+
     def do_info(self, line):
         library.print_artist(self.artist)
 
@@ -69,14 +69,14 @@ class Command(cmd.Cmd):
 
     def default(self, line):
         cmd_map = {
-            'next': self.do_next, 
+            'next': self.do_next,
             'playlists': self.do_playlists,
             'info': self.do_info,
         }
         for key in cmd_map:
             if key.startswith(line):
                 cmd_map[key]('')
-                break                
+                break
         else:
             print('command does not exist.')
 
