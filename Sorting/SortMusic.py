@@ -3,54 +3,42 @@ import pprint
 import cmd
 import pyreadline
 import LibraryManager
+import PlaylistManager
 
 f = open("../Google Play Music/all_songs.txt", "r")
 library = json.loads(f.read())
 f.close()
 library = LibraryManager.LibraryManager(library)
-library.remove_song('','')
-library.remove_song('Another Brick In The Wall (Part III)','Pink Floyd')
-library.remove_song('Another Brick In The Wall (Part III)','Pink Floyd')
 
 artists = iter(library.get_artists())
 
 f = open('sorted_songs.txt', 'r')
 playlists = json.loads(f.read())
 f.close()
+plsts = PlaylistManager.PlaylistManager(playlists)
 
 
 class Command(cmd.Cmd):
     prompt = '> '
 
     def complete_sendto(self, text, line, start_index, end_index):
-        if text:
-            return [
-                    playlist for playlist in list(playlists.keys())
-                    if playlist.startswith(text)
-                ]
-        else:
-            return list(playlists.keys())
+        return plsts.starts_with(text)
 
     def do_sendto(self, line):
-        if line in playlists.keys():
-            print("sending "+self.artist+" to playlist "+line)
-        else:
-            print("playlist does not yet exist.")
+        if not plsts.has_playlist(line):
             return
 
         artist_songs = library.remove_artist(self.artist)
-
-        playlists[line].extend(artist_songs)
+        plsts.add_to_playlist(line, self.artist, artist_songs)
 
     def do_info(self, line):
         library.print_artist(self.artist)
 
     def do_make(self, line):
-        playlists[line] = []
+        plsts.add_playlist(name=line)
 
     def do_playlists(self, line):
-        for p in playlists:
-            print('{}, {} songs'.format(p, len(playlists[p])))
+        plsts.print_playlists()
 
     def do_next(self, line):
         try:
@@ -62,7 +50,7 @@ class Command(cmd.Cmd):
 
     def do_exit(self, line):
         f = open('sorted_songs.txt', 'w')
-        f.write(json.dumps(playlists, indent=4))
+        f.write(json.dumps(plsts.playlists, indent=4))
         f.close()
 
         f = open('unsorted_songs.txt', 'w')
