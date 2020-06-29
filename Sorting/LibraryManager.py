@@ -5,15 +5,30 @@ class LibraryManager:
     def remove_song():
         pass
 
-    def remove_artist():
-        pass
+    def remove_artist(self, artist):
+        to_pop = []
+        artist_songs = []
 
-    def get_artist_songs():
-        pass
+        for i, song in enumerate(self.library):
+            if (song['artist'] == artist):
+                artist_songs.append(song)
+                to_pop.append(i)
 
-    def print_artist_info(self, artist):
-        artist_songs = [song for song in self.library
+        for i in to_pop:
+            self.library.pop(i)
+
+        return artist_songs
+
+    def get_artists(self):
+        return [song['artist'] for song in self.library]
+
+    def get_artist_songs(self, artist):
+        return [song for song in self.library
                             if song['artist'] == artist]
+
+    def print_artist(self, artist):
+        artist_songs = self.get_artist_songs(artist)
+
         if (artist_songs):
             for song in artist_songs:
                 print('  '+song['title']+', '+str(song['year']))

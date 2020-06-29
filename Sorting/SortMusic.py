@@ -4,16 +4,12 @@ import cmd
 import pyreadline
 import LibraryManager
 
-
-
 f = open("./subset.txt", "r")
 library = json.loads(f.read())
 f.close()
-pm = LibraryManager.LibraryManager(library)
+library = LibraryManager.LibraryManager(library)
 
-artists = [song['artist'] for song in library]
-artists = list(set(artists))
-items = iter(artists)
+artists = iter(library.get_artists())
 
 f = open('sorted_songs.txt', 'r')
 playlists = json.loads(f.read())
@@ -39,19 +35,12 @@ class Command(cmd.Cmd):
             print("playlist does not yet exist.")
             return 
         
-        to_pop = []
-        artist_songs = []
-        for i, song in enumerate(library):
-            if (song['artist'] == self.artist):
-                artist_songs.append(song)
-                to_pop.append(i)
-        for i in to_pop:
-            library.pop(i)
+        artist_songs = library.remove_artist(self.artist)
         
         playlists[line].extend(artist_songs)
     
     def do_info(self, line):
-        pm.print_artist_info(self.artist)
+        library.print_artist(self.artist)
 
     def do_make(self, line):
         playlists[line] = []
@@ -62,7 +51,7 @@ class Command(cmd.Cmd):
 
     def do_next(self, line):
         try:
-            self.artist = next(items)
+            self.artist = next(artists)
             print(self.artist)
         except StopIteration as e:
             print('all done!')
@@ -74,7 +63,7 @@ class Command(cmd.Cmd):
         f.close()
 
         f = open('unsorted_songs.txt', 'w')
-        f.write(json.dumps(library, indent=4))
+        f.write(json.dumps(library.get_library(), indent=4))
         f.close()
         return True
 
