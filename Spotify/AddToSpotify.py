@@ -33,6 +33,11 @@ def get_saved_playlists():
     return playlists
 
 def add_to_playlist(name, tracks):
+    playlists = get_saved_playlists()
+    if name not in playlists:
+        sp.user_playlist_create(user_id, name)
+        refresh_saved_playlists()
+        playlists = get_saved_playlists()
     playlist_id = playlists[name]
     sp.user_playlist_add_tracks(user_id, playlist_id, tracks)
 
@@ -45,13 +50,23 @@ def get_track_id(artist, song):
         print('{} by {} not found'.format(song, artist))
         return None
 
+def get_sorted_songs():
+    file = open('../Sorting/sorted_songs.txt', 'r')
+    songs = json.loads(file.read())
+    file.close()
+    return songs
 
-song_id = get_track_id('eminem', 'mockinggbird')
-song_id = get_track_id('eminem', 'mockingbird')
+def push_songs():
+    sorted_songs = get_sorted_songs()
+    for playlist in sorted_songs:
+        ids = []
+        for song in sorted_songs[playlist]:
+            ids.append(get_track_id(song['artist'], song['title']))
+                
+        add_to_playlist(playlist, ids)
 
-#sp.user_playlist_create(user_id, 'temp')
-#refresh_saved_playlists()
-playlists = get_saved_playlists()
-add_to_playlist('temp', [song_id])
+
+refresh_saved_playlists()
+push_songs()
 
 
