@@ -30,7 +30,8 @@ class LibraryManager:
         return artist_songs
 
     def get_artists(self):
-        return [song['artist'] for song in self.library]
+        artists = set([song['artist'] for song in self.library])
+        return list(artists)
 
     def get_artist_songs(self, artist):
         return [song for song in self.library
@@ -41,8 +42,7 @@ class LibraryManager:
 
         if artist_songs:
             for song in artist_songs:
-                print('  '+song['title']+', '+str(song['year']))
-            print('Genre: '+artist_songs[0]['genre'])
+                print(song['title'])
 
     def get_library(self):
         return self.library
