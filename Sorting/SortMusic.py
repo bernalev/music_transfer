@@ -62,7 +62,7 @@ def save_files():
     file.write(json.dumps(library.get_library(), indent=4))
     file.close()
 
-def open_files():
+def read_files():
     file = open("../Google Play Music/all_songs.txt", "r")
     library = json.loads(file.read())
     file.close()
@@ -73,7 +73,7 @@ def open_files():
 
     return library, playlists
 
-library, playlists = open_files()
+library, playlists = read_files()
 library = LibraryManager.LibraryManager(library)
 playlists = PlaylistManager.PlaylistManager(playlists)
 artists = iter(library.get_artists())
