@@ -1,1258 +1,1572 @@
 [
     {
         "title": "Shawn Mendes, Camila Cabello - Se\u00c3\u00b1orita",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Greeicy - Mas Fuerte - Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "El Estuche",
-        "artist": "Aterciopelados"
+        "artist": "Aterciopelados",
+		"sorted": false
     },
     {
         "title": "El Orgullo De Mi Patria Carlos vives (2017)CANCI\u00c3\u201cN COMPLETA",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Black Cat John Brown",
-        "artist": "Bakermat"
+        "artist": "Bakermat",
+		"sorted": false
     },
     {
         "title": "Asi Te Quiero Yo",
-        "artist": "La Gran Banda Cale\u00c3\u00b1a"
+        "artist": "La Gran Banda Cale\u00c3\u00b1a",
+		"sorted": false
     },
     {
         "title": "Si t\u00c3\u00ba la ves - Nicky Jam (LETRA) ft. Wisin",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Becky G Ft. Maluma La Respuesta (LetraLyric)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Vaina Loca - Ozuna, Manuel Turizo Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Somebody to Love",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Perro Fiel - Shakira Ft. Nicky Jam (Audio Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Maria Maria-Santana lyrics - YouTube",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Debiera Olvidarla",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Maluma - Coraz\u00c3\u00b3n (LETRA) ft. Nego do Borel",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Carlos Vives - Hoy Tengo Tiempo (Pinta Sensual - Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "In The Air Tonight",
-        "artist": "Phil Collins"
+        "artist": "Phil Collins",
+		"sorted": false
     },
     {
         "title": "Crazy Lttle Thing Call Love",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Sofi Tukker - Drinkee (Lyrics)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Do I Wanna Know?",
-        "artist": "Arctic Monkeys"
+        "artist": "Arctic Monkeys",
+		"sorted": false
     },
     {
         "title": "ChocQuibTown - Pa Olvidarte (LETRA)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "La Gozadera   Gente de Zona ft  Marc Anthony LYRICS LETRA",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Changes (Original Mix)",
-        "artist": "Faul, Wad Ad, PNAU"
+        "artist": "Faul, Wad Ad, PNAU",
+		"sorted": false
     },
     {
         "title": "Pierdo la cabeza",
-        "artist": "Zion & Lennox"
+        "artist": "Zion & Lennox",
+		"sorted": false
     },
     {
         "title": "Falling In Love With You",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "Another Day In Paradise",
-        "artist": "Phil Collins"
+        "artist": "Phil Collins",
+		"sorted": false
     },
     {
         "title": "Maluma - Mala Mia [LYRICSLETRA]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Mayores - Becky G ft. Bad Bunny (LETRA%2FLYRICS)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Angel",
-        "artist": "Shaggy"
+        "artist": "Shaggy",
+		"sorted": false
     },
     {
         "title": "Ataque de Risa",
-        "artist": "Aterciopelados"
+        "artist": "Aterciopelados",
+		"sorted": false
     },
     {
         "title": "Dark Times",
-        "artist": "Ed Sheeran; The Weeknd"
+        "artist": "Ed Sheeran; The Weeknd",
+		"sorted": false
     },
     {
         "title": "Tear In My Heart",
-        "artist": "Twenty One Pilots"
+        "artist": "Twenty One Pilots",
+		"sorted": false
     },
     {
         "title": "Latch",
-        "artist": "Disclosure"
+        "artist": "Disclosure",
+		"sorted": false
     },
     {
         "title": "Maluma -Carnaval - Letra (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "I Got You Babe",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "Camila Cabello _ Havana ft. Young Thug _ Lyrics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Mi Hijo Y Yo",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Heartless",
-        "artist": "Kanye West"
+        "artist": "Kanye West",
+		"sorted": false
     },
     {
         "title": "Sebastin Yatra Ft Carlos Vives- Robarte Un Beso (Audio Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Maroon 5 - Girls Like You ft. Cardi B",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Now You're Gone",
-        "artist": "Basshunter Feat. DJ Mental Theo's Bassheadz"
+        "artist": "Basshunter Feat. DJ Mental Theo's Bassheadz",
+		"sorted": false
     },
     {
         "title": "Dura - Daddy Yankee  lyrics song",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Seeya",
-        "artist": "Deadmau5"
+        "artist": "Deadmau5",
+		"sorted": false
     },
     {
         "title": "Brilla El Sol",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Chyno Miranda - Qu\u00c3\u00a9date Conmigo ft. Wisin, Gente De Zona",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Jennifer Lopez - Ni T\u00c3\u00ba Ni Yo (Audio) ft. Gente de Zona",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "HA-ASH Prince Royce - 100 A\u00c3\u00b1os (Video Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ghost",
-        "artist": "Ella Henderson"
+        "artist": "Ella Henderson",
+		"sorted": false
     },
     {
         "title": "Carlos Vives - Nuestro Secreto (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Breezeblocks",
-        "artist": "alt-J (\u00e2\u02c6\u2020)"
+        "artist": "alt-J (\u00e2\u02c6\u2020)",
+		"sorted": false
     },
     {
         "title": "Sofia Reyes - 1 2 3 (feat. Jason Derulo  De La Ghetto) [Official Video]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Andra - Sudamericana (feat. Pachanga) (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Sebasti\u00c3\u00a1n Yatra - No Hay Nadie M\u00c3\u00a1s",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Sebastian Yatra, Daddy Yankee, Jonas Brothers - Runaway (LetraLyrics) ft. Natti Natasha",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Homecoming",
-        "artist": "Kanye West"
+        "artist": "Kanye West",
+		"sorted": false
     },
     {
         "title": "SanLuis Silvestre Dangond - Como Yo (LETRA)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Juan Luis Guerra - Ay mujer",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "C\u00c3\u0192\u00c2\u00a1sate Conmigo - Nicky Jam Ft. Silvestre Dangond (Oficial) Letra \u00c3\u00a1\u00c2\u00b4\u00c2\u00b4\u00c3\u00a1\u00c2\u00b4\u00c2\u00b0",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bee Gees - Immortality (Live in Las Vegas, 1997 - One Night Only)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Juanes, Sebasti\u00c3\u00a1n Yatra - Bonita",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Nacho, Tito El Bambino - La Vida Es Una Sola",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "SOFI TUKKER - Best Friend feat. NERVO, The Knocks & Alisa Ueno (Official Audio)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "El Perd\u00c3\u00b3n - Nicky Jam & Enrique Iglesias | Audio Oficial",
-        "artist": "NickyJamTV"
+        "artist": "NickyJamTV",
+		"sorted": false
     },
     {
         "title": "Chino  Nacho - Me Voy Enamorando (Lyric VideoRemix) ft. Farruko",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Maite Perroni - Loca (Feat. Cali & El Dandee) [Video Oficial]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Don't Phunk With My Heart",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "Marc anthony Flor Palida Letra (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bailando",
-        "artist": "Enrique Iglesias"
+        "artist": "Enrique Iglesias",
+		"sorted": false
     },
     {
         "title": "Ride",
-        "artist": "Twenty One Pilots"
+        "artist": "Twenty One Pilots",
+		"sorted": false
     },
     {
         "title": "Riptide",
-        "artist": "Vance Joy"
+        "artist": "Vance Joy",
+		"sorted": false
     },
     {
         "title": "Ya No Me Duele M\u00c3\u00a1s - Silvestre Dangond (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Take Me To Church",
-        "artist": "Hozier"
+        "artist": "Hozier",
+		"sorted": false
     },
     {
         "title": "Fonseca - Eres Mi Sue\u00c3\u00b1o",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "X (EQUIS) NICKY JAM J BALVIN DJ ALEX [REMIX 2018]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Buenaventura Y Caney",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Fonseca - Simples Corazones (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Jesse Cook - Bogota by bus (Rumba Foundation)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Para Tu Amor",
-        "artist": "Juanes"
+        "artist": "Juanes",
+		"sorted": false
     },
     {
         "title": "Just Give Me a Reason",
-        "artist": "Pink"
+        "artist": "Pink",
+		"sorted": false
     },
     {
         "title": "GIMS, Maluma - Hola Se\u00c3\u00b1orita (Maria) [Official Video] (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Fonseca - Como Enamoraban Antes (Audio Cover) Agust\u00c3\u00adn - 11",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Fonseca - Ven (Video Oficial) Agust\u00c3\u00adn",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Some Nights",
-        "artist": "Fun"
+        "artist": "Fun",
+		"sorted": false
     },
     {
         "title": "Mon Laferte - Am\u00c3\u0192\u00c2\u00a1rrame ft. Juanes (con letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Paco Di Bango's World (Deadmau5 Remix)",
-        "artist": "Orlando Voorn"
+        "artist": "Orlando Voorn",
+		"sorted": false
     },
     {
         "title": "Mi Valle Del Cauca",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Liam Payne & J Balvin - Familiar (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "La Negra Tiene Tumbao",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Candle in the Wind",
-        "artist": "Elton John"
+        "artist": "Elton John",
+		"sorted": false
     },
     {
         "title": "El Taxi (Letra) Osmani Garcia Ft  Pitbull, Sensato",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Sin Sentimiento",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Subeme La Radio (feat. Descemer Bueno, Zion & Lennox)",
-        "artist": "Enrique Iglesias"
+        "artist": "Enrique Iglesias",
+		"sorted": false
     },
     {
         "title": "Silvestre Dangond, Natti Natasha - Justicia (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Burundanga",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Si Me Das Tu Amor - Carlos Vives & Wisin - (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Locked Away Lyrics - R City ft. Adam Levine (Lyric Video) HD",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Juanes - Pa Dentro (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Isla para dos",
-        "artist": "The Latin Brothers"
+        "artist": "The Latin Brothers",
+		"sorted": false
     },
     {
         "title": "Messin' Around - Pitbull Feat. Enrique Iglesias (LYRICS)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Gente de Zona - Si No Vuelves (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "The Way You Do The Things You Do",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "Tres Dias De Carnaval",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Fonseca - Volver a Verte feat Cali y El Dandee Video Oficial",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Waka Waka (Esto Es Africa)",
-        "artist": "Shakira"
+        "artist": "Shakira",
+		"sorted": false
     },
     {
         "title": "Despacito (feat. Daddy Yankee)",
-        "artist": "Luis Fonsi"
+        "artist": "Luis Fonsi",
+		"sorted": false
     },
     {
         "title": "ABBA - Chiquitita (1979) HD 0815007",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Imma be",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "La Pachanga",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "La Celosa",
-        "artist": "Carlos Vives"
+        "artist": "Carlos Vives",
+		"sorted": false
     },
     {
         "title": "juan luis guerra estrellitas y duendes",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Busca Por Dentro",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Another One Bites the Dust",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "My Humps",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "Burbujas De Amor - Juan Luis Guerra - CON LETRA",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "All Of Me",
-        "artist": "John Legend"
+        "artist": "John Legend",
+		"sorted": false
     },
     {
         "title": "Piano Man",
-        "artist": "Billy Joel"
+        "artist": "Billy Joel",
+		"sorted": false
     },
     {
         "title": "Luis Fonsi, Ozuna - Imposible Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Hey Mama",
-        "artist": "Kanye West"
+        "artist": "Kanye West",
+		"sorted": false
     },
     {
         "title": "J. Balvin, Zion & Lennox - No Es Justo",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ambiente - J Balvin - Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "In a Week ft. Karen Cowley",
-        "artist": "Hozier"
+        "artist": "Hozier",
+		"sorted": false
     },
     {
         "title": "Piso 21 - Me llamas (Feat. Maluma) [Remix]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Hasta Que Se Seque El Malecon - Jacob Forever - NBLVIP",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Amigos con derechos - Reik, Maluma (LETRA)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Fuckin' Perfect",
-        "artist": "Pink"
+        "artist": "Pink",
+		"sorted": false
     },
     {
         "title": "Somewhere over the Rainbow",
-        "artist": "Israel Iz Kamakawiwo-ole"
+        "artist": "Israel Iz Kamakawiwo-ole",
+		"sorted": false
     },
     {
         "title": "Diego Torres, Carlos Vives - Un Poquito (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Las Mujeres Estan De Moda",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Melendi Ft. HaAsh Destino O Casualidad LETRA",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Greeicy, Juanes - Minifalda",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bicycle Race",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Don't Go Breaking My Heart ft. Kiki Dee",
-        "artist": "Elton John"
+        "artist": "Elton John",
+		"sorted": false
     },
     {
         "title": "Sabr\u00c3\u00a1s, Herencia de Timbiqu\u00c3\u00ad - Video Oficial",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "ChocQuibTown - Nuqui (Te Quiero Para Mi) [Official Video]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Una Aventura",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Yo Vivir\u00c3\u00a9",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "One Dance (feat. Wizkid & Kyla)",
-        "artist": "Drake"
+        "artist": "Drake",
+		"sorted": false
     },
     {
         "title": "Marian Hill - Down",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Tito Puente",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "You Make Me",
-        "artist": "Avicii"
+        "artist": "Avicii",
+		"sorted": false
     },
     {
         "title": "DJ Snake, J. Balvin, Tyga - Loco Contigo",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "I'm Goin' In",
-        "artist": "Drake Feat. Lil Wayne & Young Jeezy"
+        "artist": "Drake Feat. Lil Wayne & Young Jeezy",
+		"sorted": false
     },
     {
         "title": "Can You Feel the Love Tonight?",
-        "artist": "Elton John"
+        "artist": "Elton John",
+		"sorted": false
     },
     {
         "title": "Miserable",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Silvestre Dangond, Maluma - Vivir Bailando (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Somebody That I Used to Know",
-        "artist": "Gotye"
+        "artist": "Gotye",
+		"sorted": false
     },
     {
         "title": "La Negra No Quiere",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Dum Diddly",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "Flo Rida ft Maluma Hola Letras Lyrics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Kingston Town",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "La Magia De Tus Besos",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Ana Mile",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Sebastian Yatra, Mau Y Ricky - Ya No Tiene Novio (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Killer Queen",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Gotas de Agua Dulce",
-        "artist": "Juanes"
+        "artist": "Juanes",
+		"sorted": false
     },
     {
         "title": "Jacob Forever ft. Farruko - Quiereme lyrics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Pedro Cap\u00c3\u00b3, Farruko - Calma (Remix - Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Tinie Tempah - Girls Like (Official Video) (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "For the Nights I Can't Remember",
-        "artist": "Hedley"
+        "artist": "Hedley",
+		"sorted": false
     },
     {
         "title": "Here I Am Baby",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "Hoy es Viernes (Chucho Flash) -Oficial-",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "The Longest Time",
-        "artist": "Billy Joel"
+        "artist": "Billy Joel",
+		"sorted": false
     },
     {
         "title": "Thinking Out Loud",
-        "artist": "Ed Sheeran"
+        "artist": "Ed Sheeran",
+		"sorted": false
     },
     {
         "title": "Sean Paul, J. Balvin - Contra La Pared",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Slow Hands",
-        "artist": "Niall Horan"
+        "artist": "Niall Horan",
+		"sorted": false
     },
     {
         "title": "10 Razones Para Amarte Carlos Vives Ft. Mart\u00c3\u00adn El\u00c3\u00adas (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Nacho La Criatura - Bailame (Audio Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Reik, J Balvin, Lalo Ebratt - Indeciso (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Melendi  Carlos Vives - El Arrepentido",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Nota de amor",
-        "artist": "Wisin & Carlos Vives feat. Daddy Yankee"
+        "artist": "Wisin & Carlos Vives feat. Daddy Yankee",
+		"sorted": false
     },
     {
         "title": "Fat Bottomed Girls",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Gotas De Lluvia",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Mi Pueblo Natal",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Ricky Martin - Fiebre (Official Video) ft. Wisin Yandel",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ria Y Llora",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "No Me Acuerdo - Thal\u00c3\u00ada ft. Natti Natasha (Con Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Roses Ft. ROZES",
-        "artist": "The Chainsmokers"
+        "artist": "The Chainsmokers",
+		"sorted": false
     },
     {
         "title": "Diana Fuentes, Gente de Zona - La Vida Me Cambi\u00c3\u00b3 (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Como Podre Disimular",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Sia - Cheap Thrills Ft. Sean Paul [Lyrics] -New 2016-",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "La camisa negra",
-        "artist": "Juanes"
+        "artist": "Juanes",
+		"sorted": false
     },
     {
         "title": "Naty Botero- Siempre Juntos Ft. Herencia de Timbiqu\u00c3\u00ad (V\u00c3\u00addeo con letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bella Wolfine - V\u00c3\u00addeo Oficial",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Cumbia Del Caribe",
-        "artist": "Various Artists"
+        "artist": "Various Artists",
+		"sorted": false
     },
     {
         "title": "[OFFICAL] Darkness to Light- TomE ft JRDN & Ish",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Soy Capaz",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Vivir Mi Vida",
-        "artist": "Marc Anthony"
+        "artist": "Marc Anthony",
+		"sorted": false
     },
     {
         "title": "Kygo, Selena Gomez - It Ain't Me (with Selena Gomez) (Audio)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Cali Pachanguero",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "El Amor Vendr\u00c3\u00a1",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "ChocQuibTown - De Donde Vengo Yo",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Entrega",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Prince Royce Shakira - Deja vu (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "True Colors",
-        "artist": "Phil Collins"
+        "artist": "Phil Collins",
+		"sorted": false
     },
     {
         "title": "It's Still Rock And Roll To Me",
-        "artist": "Billy Joel"
+        "artist": "Billy Joel",
+		"sorted": false
     },
     {
         "title": "Fotografia - Juanes ft. Nelly Furtado (Musica Con Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Quimbara",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Justin Timberlake - Can't Stop the Feeling ( Lyrics Video )",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Nochecita - Maite Hontel\u00c3\u00a9 ft. Herencia de Timbiqu\u00c3\u00ad (Letra) - Rankeados Colombia",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "J. Balvin, Willy William - Mi Gente (letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Jesse & Joy and J Balvin - Ma\u00c3\u00b1ana Es Too Late (Video Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Yomil y El Dany - Te paso a buscar (Live Cecilia)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bad Bunny feat. Drake - Mia ( Video Oficial )",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "El Tiki",
-        "artist": "Maluma"
+        "artist": "Maluma",
+		"sorted": false
     },
     {
         "title": "Luis Fonsi - \u00c3\u0192_chame La Culpa Ft. Demi Lovato (Audio)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Borro Cassette Maluma-Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Te mando flores letra - Fonseca",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "ChocQuibTown - Cuando Te Veo (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Doses and Mimosas",
-        "artist": "Cherub"
+        "artist": "Cherub",
+		"sorted": false
     },
     {
         "title": "El Prestamo - Maluma - Letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "La India y Marc Anthony -Vivir Lo Nuestro (letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "La tierra del olvido",
-        "artist": "Carlos Vives"
+        "artist": "Carlos Vives",
+		"sorted": false
     },
     {
         "title": "Perd\u00c3\u00b3n, perd\u00c3\u00b3n",
-        "artist": "Ha*Ash"
+        "artist": "Ha*Ash",
+		"sorted": false
     },
     {
         "title": "Jesse & Joy - 3 A.M. (Feat. Gente de Zona) [Video Oficial]",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Shakira   Me enamor\u00c3\u00a9 letra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Abba - Dancing Queen",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Gente De Zona Algo Contigo (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Tres Gotas De Agua Bendita",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Cal\u00c3\u00ad Aj\u00c3\u00ad",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Red Red Wine",
-        "artist": "UB40"
+        "artist": "UB40",
+		"sorted": false
     },
     {
         "title": "Sebasti\u00c3\u00a1n Yatra, Reik - Un A\u00c3\u00b1o",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ven Bernab\u00c3\u00a9",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Jesse Cook - Manolos Lament (Rumba Foundation)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "D\u00c3\u00a9jame Quererte (Official Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Juanes - La Plata ft. Lalo Ebratt Letra OYR studio",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Don't Lie",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "Descemer Bueno, Enrique Iglesias - Nos Fuimos Lejos (Official Video) ft. El Micha",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ed Sheeran - Perfect Symphony (Lyrics  Lyric Video) ft. Andrea Bocelli",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Anitta  J Balvin - Downtown (Official Music Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Colombia tierra querida",
-        "artist": "Lucho Bermudez"
+        "artist": "Lucho Bermudez",
+		"sorted": false
     },
     {
         "title": "I'm Yours",
-        "artist": "Jason Mraz"
+        "artist": "Jason Mraz",
+		"sorted": false
     },
     {
         "title": "Natalia Lafourcade - T\u00c3\u00ba s\u00c3\u00ad sabes quererme (en manos de Los Macorinos) (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Mike Bahia - Qu\u00c3\u00a9date Aqu\u00c3\u00ad",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Que Le Den Candela",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "El Amante - Nicky Jam Letra (AudioOficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bomba Est\u00c3\u00a9reo - To My Love Remix (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Carlos Vives - Volv\u00c3\u00ad a Nacer (Cover Audio) ft. Maluma",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Muchacha de risa loca",
-        "artist": "Jose Macias"
+        "artist": "Jose Macias",
+		"sorted": false
     },
     {
         "title": "David Bisbal - A Partir de Hoy (VIDEO LYRIC)ft. Sebastian Yatra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Cali Y El Dandee - Por Fin Te Encontr\u00c3\u00a9 ft. Juan Magan, Sebastian Yatra",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Se Parecio Tanto A Ti",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Te invito - Herencia de Timbiqu\u00c3\u00ad (video oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "CHOC QUIB TOWN - Pescao envenenao",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Juan Magan - He Llorado (Como Un Ni\u00c3\u00b1o) ft. Gente De Zona",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Enrique Iglesias, Juan Luis Guerra - Cuando Me Enamoro",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Cardi B, Bad Bunny, J Balvin - I LIKE IT (LYRIC VIDEO)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Cherry Wine [Live]",
-        "artist": "Hozier"
+        "artist": "Hozier",
+		"sorted": false
     },
     {
         "title": "Oye Como Va",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Felices los 4 (Salsa Version) [Letra] - Maluma & Marc Anthony",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Letra - Cali y el Dandee - Por fin te encontr\u00c3\u00a9",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Usted Abuso",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Bemba Colora",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Jesse Cook - Cecilia - The Rumba Foundation",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Dile Que Por Mi No Tema",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "Burak Yeter - Tuesday ft. Danelle Sandoval",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Danza Kuduro",
-        "artist": "Don Omar"
+        "artist": "Don Omar",
+		"sorted": false
     },
     {
         "title": "Luis Fonsi, Sebasti\u00c3\u00a1n Yatra, Nicky Jam - Date La Vuelta",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Stayin' Alive",
-        "artist": "Bee Gees"
+        "artist": "Bee Gees",
+		"sorted": false
     },
     {
         "title": "Carlos Vives - Ma\u00c3\u00b1ana (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Al Filo de Tu Amor",
-        "artist": "Carlos Vives"
+        "artist": "Carlos Vives",
+		"sorted": false
     },
     {
         "title": "La Vida Es Un Carnaval",
-        "artist": "Celia Cruz"
+        "artist": "Celia Cruz",
+		"sorted": false
     },
     {
         "title": "La Tortura",
-        "artist": "Shakira"
+        "artist": "Shakira",
+		"sorted": false
     },
     {
         "title": "Loca",
-        "artist": "Shakira"
+        "artist": "Shakira",
+		"sorted": false
     },
     {
         "title": "Cielo De Tambores",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "La Tierra del Olvido (feat. Fanny Lu, Fonseca, Maluma, Andrea Ec...",
-        "artist": "Carlos Vives"
+        "artist": "Carlos Vives",
+		"sorted": false
     },
     {
         "title": "Lane Boy",
-        "artist": "Twenty One Pilots"
+        "artist": "Twenty One Pilots",
+		"sorted": false
     },
     {
         "title": "Cali Y El Dandee - La Estrategia (Lyrics%2FLetra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Only The Good Die Young",
-        "artist": "Billy Joel"
+        "artist": "Billy Joel",
+		"sorted": false
     },
     {
         "title": "We Will Rock You",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Suavemente",
-        "artist": "Elvis Crespo"
+        "artist": "Elvis Crespo",
+		"sorted": false
     },
     {
         "title": "Vive a tu manera - Herencia de Timbiqu\u00c3\u00ad ( Video Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "El Clavo Remix - Letra - Prince Royce Ft Maluma",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Man In The Mirror",
-        "artist": "Michael Jackson"
+        "artist": "Michael Jackson",
+		"sorted": false
     },
     {
         "title": "Mi verdad",
-        "artist": "Man\u00c3\u00a1 feat. Shakira"
+        "artist": "Man\u00c3\u00a1 feat. Shakira",
+		"sorted": false
     },
     {
         "title": "Me Vuelvo un Cobarde",
-        "artist": "Christian Daniel"
+        "artist": "Christian Daniel",
+		"sorted": false
     },
     {
         "title": "Vine a Busacarte(letra) - FONSECA",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Alejandro Fern\u00c3\u00a1ndez - S\u00c3\u00a9 Que Te Duele ft. Morat",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "All Falls Down",
-        "artist": "Kanye West"
+        "artist": "Kanye West",
+		"sorted": false
     },
     {
         "title": "Hagamos Lo Que Diga El Coraz\u00c3\u00b3n",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "My Life",
-        "artist": "Billy Joel"
+        "artist": "Billy Joel",
+		"sorted": false
     },
     {
         "title": "Nuestro Sue\u00c3\u00b1o",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Thal\u00c3\u00ada - Desde Esa Noche ft. Maluma",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Felipe Pel\u00c3\u00a1ez ft Maluma - Vivo pensando en ti (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Rockabye Baby. Clean Bandit ft. Sean Paul & Anne-Marie Lyics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Carlos Vives, Shakira - La Bicicleta (Official Lyric Video)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Sab\u00c3\u00adas - Nuestro Homenaje a Colombia",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ese D\u00c3\u00ada",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "J Balvin - Safari ft. Pharrell Williams BIA Sky",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Abba lyrics Slipping through my Fingers",
-        "artist": "Abba"
+        "artist": "Abba",
+		"sorted": false
     },
     {
         "title": "Heathens Lyrics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Tom Odell - Another Love (Zwette Edit)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Ay Vamos",
-        "artist": "J Balvin"
+        "artist": "J Balvin",
+		"sorted": false
     },
     {
         "title": "Juntos (Together)",
-        "artist": "Juanes"
+        "artist": "Juanes",
+		"sorted": false
     },
     {
         "title": "none",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Under Pressure",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Luis Fonsi, Stefflon Don - Calypso",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Es Mentira - Silvestre Dangond (Letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Piso 21 - Puntos Suspensivos (V\u00c3\u00addeo Oficial)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Bohemian Rhapsody",
-        "artist": "Queen"
+        "artist": "Queen",
+		"sorted": false
     },
     {
         "title": "Ed Sheeran Shape of you NEW SONG 2017 Lyrics",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "- LETRA-LYRIC - Chino y Nacho - Andas En Mi Cabeza ft. Daddy Yankee",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Enrique Iglesias - DUELE EL CORAZON (Lyric Video) ft. Wisin (1)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Alex Sensation Ozuna - Que Va",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Hips Don't Lie",
-        "artist": "Shakira"
+        "artist": "Shakira",
+		"sorted": false
     },
     {
         "title": "TE BOT\u00c3\u2030 REMIX Kevo DJ Dani Cejas",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Don't",
-        "artist": "Ed Sheeran"
+        "artist": "Ed Sheeran",
+		"sorted": false
     },
     {
         "title": "Chayanne - Qu\u00c3\u00a9 Me Has Hecho (Audio) ft. Wisin",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Stressed Out",
-        "artist": "Twenty One Pilots"
+        "artist": "Twenty One Pilots",
+		"sorted": false
     },
     {
         "title": "Where is the love?",
-        "artist": "Black Eyed Peas"
+        "artist": "Black Eyed Peas",
+		"sorted": false
     },
     {
         "title": "Perder Para Amar",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "Carlos Baute ft. Marta S\u00c3\u00a1nchez Te Sigo Pensando (letra)",
-        "artist": "None"
+        "artist": "None",
+		"sorted": false
     },
     {
         "title": "Del Puente Pa' Alla",
-        "artist": "Grupo Niche"
+        "artist": "Grupo Niche",
+		"sorted": false
     },
     {
         "title": "A Dios Le Pido",
-        "artist": "Juanes"
+        "artist": "Juanes",
+		"sorted": false
     },
     {
         "title": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
-        "artist": "Elton John"
+        "artist": "Elton John",
+		"sorted": false
     }
 ]

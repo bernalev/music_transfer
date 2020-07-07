@@ -4,7 +4,6 @@ import cmd
 import pyreadline
 import LibraryManager
 import PlaylistManager
-import Iterator
 
 class Command(cmd.Cmd):
     prompt = '> '
@@ -64,7 +63,7 @@ def save_files():
     file.close()
 
 def read_files():
-    file = open("../moms_songs.txt", "r")
+    file = open("./unsorted_songs.txt", "r")
     library = json.loads(file.read())
     file.close()
 

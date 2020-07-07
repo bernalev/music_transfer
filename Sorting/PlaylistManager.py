@@ -18,12 +18,12 @@ class PlaylistManager:
             print('playlist already exists')
         else:
             self.playlists[name] = []
+            self.names.append(name)
 
     def has_playlist(self, name):
         if name in self.names:
             return True
         else:
-            print("playlist does not yet exist.")
             return False
 
     def print_playlists(self):

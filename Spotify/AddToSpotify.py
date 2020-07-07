@@ -60,10 +60,16 @@ def push_songs():
     sorted_songs = get_sorted_songs()
     for playlist in sorted_songs:
         ids = []
+        failed = []
         for song in sorted_songs[playlist]:
-            ids.append(get_track_id(song['artist'], song['title']))
+            id = get_track_id(song['artist'], song['title'])
+            if id:
+                ids.append(id)
+            else:
+                failed.append(song)
                 
         add_to_playlist(playlist, ids)
+        print(failed)
 
 
 refresh_saved_playlists()
