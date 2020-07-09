@@ -1,9 +1,8 @@
 {
-    "temp": "spotify:playlist:47ObJRZnSuRgDdwLqeXveR",
-    "Older Colombia Vibes": "spotify:playlist:6x6Xs1wUQd8ll6z5aEJUOH",
-    "New": "spotify:playlist:6j1VW53S6pGm1N8iivDzwp",
-    "Reggaeton": "spotify:playlist:6jpS9jIW0MamUOnkVWtSaW",
-    "Latin Thug Sounds": "spotify:playlist:349lfUK8ap0OHggptklXK9",
-    "Mix of Rap-y Songs": "spotify:playlist:454KvtphgTqlAkbJMvmc2b",
-    "Chill Feels": "spotify:playlist:1t9kLthw8rXSg2XiQGEMYI"
+    "Spanish Pop": "spotify:playlist:5j8J5yrGCbGp3RJFNx2giF",
+    "Cl\u00e1sicos": "spotify:playlist:6CCM6YGpRoj3nvvH0aabV8",
+    "Chill Vibes": "spotify:playlist:7s1qAtZ0H82u5590yuji8N",
+    "Latin Pop": "spotify:playlist:32zpHpbtFNKY88j3PpYIjG",
+    "English Pop": "spotify:playlist:03pQ88fvOqmJvpaS73jrGi",
+    "Oldies": "spotify:playlist:5qFiwrpcQHaplnfchdZMXs"
 }

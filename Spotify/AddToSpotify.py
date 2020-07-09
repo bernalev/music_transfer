@@ -39,10 +39,15 @@ def add_to_playlist(name, tracks):
         refresh_saved_playlists()
         playlists = get_saved_playlists()
     playlist_id = playlists[name]
+
+    while len(tracks)>100:
+        sp.user_playlist_add_tracks(user_id, playlist_id, tracks[0:100])
+        tracks = tracks[100:]
     sp.user_playlist_add_tracks(user_id, playlist_id, tracks)
 
 def get_track_id(artist, song):
-    search_str = 'track:{} artist:{}'.format(song, artist)
+    #search_str = 'track:{} artist:{}'.format(song, artist)
+    search_str = '{} {}'.format(song, artist)
     result = sp.search(search_str, limit=1)
     if len(result['tracks']['items']):
         return result['tracks']['items'][0]['id']
@@ -56,8 +61,14 @@ def get_sorted_songs():
     file.close()
     return songs
 
+def save_failed(failed):
+    file = open('./failed_songs.txt', 'w')
+    file.write(json.dumps(failed, indent=4))
+    file.close()
+
 def push_songs():
     sorted_songs = get_sorted_songs()
+    
     for playlist in sorted_songs:
         ids = []
         failed = []
@@ -69,7 +80,7 @@ def push_songs():
                 failed.append(song)
                 
         add_to_playlist(playlist, ids)
-        print(failed)
+        save_failed(failed)
 
 
 refresh_saved_playlists()

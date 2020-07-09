@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Isla para dos",
+        "artist": "The Latin Brothers",
+        "sorted": false
+    },
+    {
+        "title": "HAASH Prince Royce 100 A\u00f1os",
+        "artist": "",
+        "sorted": false
+    },
+    {
+        "title": "Sab\u00edas Nuestro Homenaje a Colombia",
+        "artist": "",
+        "sorted": false
+    },
+    {
+        "title": "TE BOT\u00e9 REMIX Kevo DJ Dani Cejas",
+        "artist": "",
+        "sorted": false
+    },
+    {
+        "title": "Burbujas De Amor Juan Luis Guerra CON ",
+        "artist": "",
+        "sorted": false
+    },
+    {
+        "title": "",
+        "artist": "Fonseca Como Enamoraban Antes Agust\u00edn 11",
+        "sorted": false
+    },
+    {
+        "title": "",
+        "artist": "Hasta Que Se Seque El Malecon Jacob Forever NBLVIP",
+        "sorted": false
+    },
+    {
+        "title": "",
+        "artist": "X NICKY JAM J BALVIN DJ ALEX",
+        "sorted": false
+    }
+]
