@@ -26,3 +26,5 @@ Below is a preview of what's involved:
     <img src="images/appears_on_spotify.gif" width="20%">
   </ol>
 </div>
+
+The script doesn't offer as many features as I would like, and can have bugs if not used as expected; my next steps are to fix this and perhaps to add a frontend.
