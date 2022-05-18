@@ -2,7 +2,6 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import os
 import json
-import pprint
 
 scope = "playlist-modify-public"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
@@ -83,7 +82,8 @@ def push_songs():
         save_failed(failed)
 
 
+
 refresh_saved_playlists()
-push_songs()
+#push_songs()
 
 
